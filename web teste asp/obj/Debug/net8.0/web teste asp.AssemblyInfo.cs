@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("web teste asp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d9906a7ebf01411dc5ccbbd7729bbe8d2f1ed27")]
 [assembly: System.Reflection.AssemblyProductAttribute("web teste asp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("web teste asp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
